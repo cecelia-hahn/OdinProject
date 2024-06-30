@@ -1,0 +1,44 @@
+.title {
+  text-align: center;
+  background-color: #a0dba6;
+}
+
+.choc {
+  background-color: #ab8f82;
+}
+
+.mac {
+  background-color: #f5e276;
+}
+
+.sinigang {
+  background-color: #d68f51;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: auto;
+}
+
+.head {
+  background-color: black;
+}
+
+.comm {
+  color: #deaf85;
+}
+
+.desc {
+  color: #de8585;
+}
+
+.ingredients {
+  color: #dedc85;
+}
+
+.steps {
+  color: #97de85;
+}
