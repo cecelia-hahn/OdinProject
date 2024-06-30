@@ -1,0 +1,15 @@
+.container .text {
+  background-color: yellow;
+  color: red;
+  text-align: center;
+  font-size: 20px
+}
+
+/* .container.text does not achieve this, there has to be a space. 
+
+Other possible solutions:
+div .text
+.container p
+div p
+div > p
+*\
